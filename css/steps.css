@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: brown;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    color: blue;
+  }
+  p.center {
+    text-align: center;
+    color: red;
+  }
+  p {
+    color: red;
+  }
